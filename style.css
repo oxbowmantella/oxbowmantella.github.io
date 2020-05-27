@@ -6,7 +6,7 @@ html
 
 body
 {
-    font-family: 'Montserrat', sans-serif, Arial;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
     font-size: 20px; 	
     line-height: 35px;
     font-weight: 400;	
@@ -1315,7 +1315,7 @@ div.pp_default .pp_loaderIcon
     margin: 30px 0;
     height: 28px;
     font-size: 16px;
-    font-family: 'Montserrat', sans-serif, Arial;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
     width: 100%;
     line-height: 25px;
     text-transform: uppercase;
@@ -1343,7 +1343,7 @@ div.pp_default .pp_loaderIcon
     vertical-align: middle;
     text-decoration: none;
     background: transparent;
-    font-family: 'Montserrat', sans-serif, Arial;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
     font-weight: 700;
     width: 100%;
     text-transform: uppercase;
@@ -1352,7 +1352,7 @@ div.pp_default .pp_loaderIcon
 
 .contact-form input[type=text]::-webkit-input-placeholder, .contact-form input[type=email]::-webkit-input-placeholder, .contact-form textarea::-webkit-input-placeholder
 {
-    font-family: 'Montserrat', sans-serif, Arial;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
     color: #271733;
     font-weight: 700;
     font-size: 20px;
@@ -1360,7 +1360,7 @@ div.pp_default .pp_loaderIcon
 }
 .contact-form input[type=text]::-moz-placeholder, .contact-form input[type=email]::-moz-placeholder, .contact-form textarea::-moz-placeholder
 {
-    font-family: 'Montserrat', sans-serif, Arial;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
     color: #271733;
     font-weight: 700;
     font-size: 20px;
@@ -1369,7 +1369,7 @@ div.pp_default .pp_loaderIcon
 }
 .contact-form input[type=text]:-ms-input-placeholder, .contact-form input[type=email]:-ms-input-placeholder, .contact-form textarea:-ms-input-placeholder
 {
-    font-family: 'Montserrat', sans-serif, Arial;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
     color: #271733;
     font-weight: 700;
     font-size: 20px;
@@ -1377,7 +1377,7 @@ div.pp_default .pp_loaderIcon
 }
 .contact-form input[type=text]:-moz-placeholder, .contact-form input[type=email]:-moz-placeholder, .contact-form textarea:-moz-placeholder
 {
-    font-family: 'Montserrat', sans-serif, Arial;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
     color: #271733;
     font-weight: 700;
     font-size: 20px;
