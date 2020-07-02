@@ -522,13 +522,13 @@ var loadPortfolioSinglePage = function(id, href) {
 
 var jarallaxPlugin = function() {
 	$('.jarallax').jarallax({
-    speed: 0.2
+    speed: 0.0
 	});
 	jarallax(document.querySelectorAll('.jarallax-video'), {
-    speed: 0.2,
-    videoSrc: 'https://www.youtube.com/watch?v=BFDQ0Iocsjo',
-    videoStartTime: 8,
-    videoEndTime: 70,
+    speed: 0.0,
+    videoSrc: 'https://youtu.be/p0dsk6TCwAk',
+    videoStartTime: 0,
+    videoEndTime: 84,
 	});
 };
 
