@@ -49,6 +49,7 @@ body, .unslate_co--site-inner {
 }
 
 a {
+  color: rgb(0, 0, 0);
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
@@ -61,6 +62,38 @@ a, a:hover {
 .text-black {
   color: #000;
 }
+
+.button {
+  border: none;
+  color: rgb(185, 185, 185);
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 5px 3px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button1 {
+  background-color: white; 
+  color: rgb(252, 252, 252); 
+  border: 2px solid rgb(128, 128, 128);
+}
+
+.button1:hover {
+  background-color: rgb(128, 128, 128);
+  color: white;
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  border: 2px solid #46204e;
+  padding: 20px; 
+  width: 150;
+  height: 10;  
+}
+
 
 .unslate_co--site-inner {
   margin-bottom: 400px;
