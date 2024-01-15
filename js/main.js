@@ -528,7 +528,7 @@ var jarallaxPlugin = function() {
     speed: 0.0,
     videoSrc: 'https://youtu.be/A1niRhmtnYo?si=GriLuRPgJEhduRRe',
     videoStartTime: 0,
-    videoEndTime: 93,
+    videoEndTime: 92,
 	});
 };
 
