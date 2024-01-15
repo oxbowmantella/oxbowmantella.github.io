@@ -526,9 +526,9 @@ var jarallaxPlugin = function() {
 	});
 	jarallax(document.querySelectorAll('.jarallax-video'), {
     speed: 0.0,
-    videoSrc: 'https://youtu.be/xanusDQbG9U',
+    videoSrc: 'https://youtu.be/A1niRhmtnYo?si=GriLuRPgJEhduRRe',
     videoStartTime: 0,
-    videoEndTime: 87,
+    videoEndTime: 93,
 	});
 };
 
