@@ -2087,5 +2087,79 @@ li.right-footer-contnet a:first-child
           left: 0;
         }
       }
-      
 }
+/* https://codepen.io/t_afif/pen/bGqEBgL */
+/* Progression Bar 25% */
+.progress-1 {
+    width:120px;
+    height:24px;
+    -webkit-mask:
+      radial-gradient(circle closest-side,#000 94%,#0000) 0 0/25% 100%,
+      linear-gradient(#000 0 0) center/calc(100% - 12px) calc(100% - 12px) no-repeat;
+    background:
+     linear-gradient(#b88bc7 0 0) 0/0% no-repeat
+     #ddd;
+    animation:p1 2s  forwards;
+    top:-100%; right:-100%; left:-100%; bottom:-100%;
+    margin:auto;
+    z-index:0;
+  }
+  @keyframes p1 {
+      100% {background-size:25%}
+  }
+/* Progression Bar 50% */
+.progress-2 {
+    width:120px;
+    height:24px;
+    -webkit-mask:
+      radial-gradient(circle closest-side,#000 94%,#0000) 0 0/25% 100%,
+      linear-gradient(#000 0 0) center/calc(100% - 12px) calc(100% - 12px) no-repeat;
+    background:
+     linear-gradient(#b88bc7 0 0) 0/0% no-repeat
+     #ddd;
+    animation:p2 2s  forwards;
+    top:-100%; right:-100%; left:-100%; bottom:-100%;
+    margin:auto;
+    z-index:0;
+  }
+  @keyframes p2 {
+      100% {background-size:50%}
+  }
+/* Progression Bar 75% */
+.progress-3 {
+    width:120px;
+    height:24px;
+    -webkit-mask:
+      radial-gradient(circle closest-side,#000 94%,#0000) 0 0/25% 100%,
+      linear-gradient(#000 0 0) center/calc(100% - 12px) calc(100% - 12px) no-repeat;
+    background:
+     linear-gradient(#b88bc7 0 0) 0/0% no-repeat
+     #ddd;
+    animation:p3 2s  forwards;
+    top:-100%; right:-100%; left:-100%; bottom:-100%;
+    margin:auto;
+    z-index:0;
+  }
+  @keyframes p3 {
+      100% {background-size:75%}
+  }
+
+/* Progression Bar 25% */
+.progress-4 {
+    width:120px;
+    height:24px;
+    -webkit-mask:
+      radial-gradient(circle closest-side,#000 94%,#0000) 0 0/25% 100%,
+      linear-gradient(#000 0 0) center/calc(100% - 12px) calc(100% - 12px) no-repeat;
+    background:
+     linear-gradient(#b88bc7 0 0) 0/0% no-repeat
+     #ddd;
+    animation:p4 2s  forwards;
+    top:-100%; right:-100%; left:-100%; bottom:-100%;
+    margin:auto;
+    z-index:0;
+  }
+  @keyframes p4 {
+      100% {background-size:90%}
+  }
+  
