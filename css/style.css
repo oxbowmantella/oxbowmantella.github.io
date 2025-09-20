@@ -2354,4 +2354,7 @@ span.error {
   }
 }
 /* youtube link for header video can be found int he main.js file*/
-
+.center-page {
+  display: flex;
+  justify-content: center; /* Horizontal center */
+}
